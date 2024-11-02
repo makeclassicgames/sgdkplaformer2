@@ -1,0 +1,1 @@
+SPRITE zera "zera.png" 3 4 NONE 5 BOX

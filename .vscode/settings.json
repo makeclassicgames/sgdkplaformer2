@@ -1,0 +1,7 @@
+{ 
+    "C_Cpp.default.includePath": ["/home/victor/sgdk200/inc",
+    "/home/victor/sgdk200/res",
+    "res",
+    "inc"
+]
+}
